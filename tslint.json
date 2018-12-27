@@ -1,0 +1,16 @@
+{
+  "extends": ["tslint-config-standard"],
+  "linterOptions": {
+    "exclude": [
+      "config/**/*.js",
+      "node_modules/**/*.ts",
+      "coverage/lcov-report/*.js",
+      "src/components/*.spec.ts"
+    ]
+  },
+  "rules": {
+    "space-before-function-paren": ["ignore"],
+    "no-floating-promises": ["ignore"],
+    "object-curly-spacing": ["always"]
+  }
+}
