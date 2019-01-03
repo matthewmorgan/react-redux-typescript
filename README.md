@@ -2,7 +2,7 @@
 
 With support for Jest and Redux Dev Tools
 
-Originally built with `create-react-app` (see (README-CRA.md)[https://github.com/matthewmorgan/react-redux-typescript/blob/master/README-CRA.md])
+Originally built with `create-react-app` (see [README-CRA.md](https://github.com/matthewmorgan/react-redux-typescript/blob/master/README-CRA.md))
 
 I created this version because I couldn't find a current version of such a thing.
 
